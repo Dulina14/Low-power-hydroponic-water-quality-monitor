@@ -1,0 +1,21 @@
+# Altium transient files
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.SchDocPreview
+*.PcbDocPreview
+*.~*
+*.bak
+*.autosave
+*.LCK
+# ESP-IDF generated files and private settings
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+.vscode/
+.env
+secrets.json
+__pycache__/
+*.pyc
